@@ -67,7 +67,3 @@ Integração e Dados Sintéticos: gspread, faker
 
 Visualização de Dados: matplotlib, seaborn
 
-👩‍💻 Autora
-Cristina Satie Vatanabe
-
-Engenheira de Produção | Pós-graduanda em Análise Estratégica de Dados
